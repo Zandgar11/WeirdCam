@@ -1,0 +1,5 @@
+{
+  "name": "Amnesiac Vision",
+  "description": "A Radiohead-inspired real-time visual glitch engine with webcam integration and stylized text generation.",
+  "requestFramePermissions": ["camera"]
+}
